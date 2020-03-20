@@ -24,6 +24,7 @@
 %>
 <%
 	String str="Git 연습";
+	System.out.println("str=>"+str);
 	out.println("<h1>"+"str=>"+"str"+"</h1>");
 %>
 <hr><p>
