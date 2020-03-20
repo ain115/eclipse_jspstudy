@@ -28,6 +28,8 @@
 	out.println("<h1>"+"str=>"+"str"+"</h1>");
 %>
 <%=str %>
+<hr>
+str의 값 출력=<%=str%>
 <hr><p>
 정수 f의 반올림은? <%=i%><p>
 현재의 날짜와 시간은?<%=d.toString() %>
